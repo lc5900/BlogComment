@@ -1,2 +1,2 @@
 # BlogComment
-Comment for www.5900.monster
+Comment for www.lc5900.monster
